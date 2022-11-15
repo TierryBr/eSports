@@ -17,7 +17,7 @@ export interface GameCardProps {
   _count: {
     ads: number;
   };
-  bannerUrl: String;
+  bannerUrl: string;
 }
 
 interface Props extends TouchableOpacityProps {
